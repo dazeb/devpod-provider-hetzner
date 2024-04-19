@@ -45,11 +45,11 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.7.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
-	golang.org/x/term v0.7.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/term v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
